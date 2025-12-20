@@ -296,7 +296,7 @@ export function CitizenLanding({
                 <Droplets className="w-7 h-7 text-white" />
               </motion.div>
               <div>
-                <h1 className="text-2xl text-gray-900 font-bold">AquaFlow Portal</h1>
+                <h1 className="text-2xl text-gray-900 font-bold">WaterBill Management</h1>
                 <p className="text-sm text-blue-600">Smart Water Management</p>
               </div>
             </div>
